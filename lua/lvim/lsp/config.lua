@@ -44,8 +44,6 @@ local skipped_filetypes = { "markdown", "rst", "plaintext", "toml", "proto" }
 
 local join_paths = require("lvim.utils").join_paths
 
-require("lvim.lsp.manager").setup("angularls")
-
 return {
   templates_dir = join_paths(get_runtime_dir(), "site", "after", "ftplugin"),
   diagnostics = {
