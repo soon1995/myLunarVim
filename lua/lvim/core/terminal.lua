@@ -44,6 +44,13 @@ M.config = function()
       { vim.o.shell, "<M-1>", "Horizontal Terminal", "horizontal", 0.3 },
       { vim.o.shell, "<M-2>", "Vertical Terminal", "vertical", 0.4 },
       { vim.o.shell, "<M-3>", "Float Terminal", "float", nil },
+      { vim.o.shell, "<M-4>", "Horizontal Terminal", "horizontal", 0.3 },
+      { vim.o.shell, "<M-5>", "Horizontal Terminal", "horizontal", 0.3 },
+      { vim.o.shell, "<M-6>", "Horizontal Terminal", "horizontal", 0.3 },
+      { vim.o.shell, "<M-7>", "Horizontal Terminal", "horizontal", 0.3 },
+      { vim.o.shell, "<M-8>", "Horizontal Terminal", "horizontal", 0.3 },
+      { vim.o.shell, "<M-9>", "Horizontal Terminal", "horizontal", 0.3 },
+      { vim.o.shell, "<M-0>", "Horizontal Terminal", "horizontal", 0.3 },
     },
   }
 end
