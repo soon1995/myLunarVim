@@ -84,6 +84,7 @@ M.config = function()
       ["q"] = { "<cmd>lua require('lvim.utils.functions').smart_quit()<CR>", "Quit" },
       ["/"] = { "<Plug>(comment_toggle_linewise_current)", "Comment toggle" },
       ["c"] = { "<cmd>BufferKill<CR>", "Close Buffer" },
+      ["o"] = { "<cmd>:only<CR>", "Close Other" },
       ["f"] = { require("lvim.core.telescope.custom-finders").find_project_files, "Find File" },
       ["F"] = { "<cmd>Telescope live_grep theme=ivy<cr>", "Find Text" }, 
       ["h"] = { "<cmd>nohlsearch<CR>", "No Highlight" },
