@@ -1,4 +1,4 @@
-Kindly refer to [LunarVim Official Website](https://github.com/LunarVim/LunarVim)
+Kindly refer to [LunarVim Official Website](https://www.lunarvim.org)
 And also [LunarVim Github](https://github.com/LunarVim/LunarVim) 
 
 Before using LunarVim, I found out there was very low effectiveness and my mindset was very messy when using some IDEs as there was a need to switch between my mouse and keyboards. Some IDEs only supported some programming languages, so there was some difference in key bindings, or we should change it manually in either IDE. 
