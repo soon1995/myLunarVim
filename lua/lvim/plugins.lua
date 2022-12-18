@@ -282,6 +282,11 @@ local core_plugins = {
     end,
     disable = lvim.colorscheme ~= "onedarker",
   },
+  
+  -- java
+  {
+    "mfussenegger/nvim-jdtls"
+  },
 }
 
 local default_snapshot_path = join_paths(get_lvim_base_dir(), "snapshots", "default.json")
