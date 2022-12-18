@@ -1,3 +1,13 @@
+Kindly refer to [LunarVim Official Website](https://github.com/LunarVim/LunarVim)
+And also [LunarVim Github](https://github.com/LunarVim/LunarVim) 
+
+Before using LunarVim, I found out there was very low effectiveness and my mindset was very messy when using some IDEs as there was a need to switch between my mouse and keyboards. Some IDEs only supported some programming languages, so there was some difference in key bindings, or we should change it manually in either IDE. 
+
+Thankfully, my friend [Yim Jia Jun](https://github.com/yimjiajun) has recommended Neovim to me and shared some knowledge with me during a trip. I further study Neovim by watching [chris@machine Neovim IDE from Scratch]( https://www.youtube.com/watch?v=ctH-a-1eUME&list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ) after that trip, and I was impressed by Neovim on the ability in customisation and the modes that allowed developers to develop programs with high efficiency. For your information, Chris is the creator of the LunarVim as well.
+
+I have started using LunarVim since the end of November 2022, and I enjoy coding with it.
+
+
 ![lunarvim_logo_dark](https://user-images.githubusercontent.com/59826753/159940098-54284f26-f1da-4481-8b03-1deb34c57533.png)
 
 <div align="center"><p>
