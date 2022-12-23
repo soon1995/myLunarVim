@@ -1,9 +1,9 @@
 Kindly refer to [LunarVim Official Website](https://www.lunarvim.org)
 And also [LunarVim Github](https://github.com/LunarVim/LunarVim) 
 
-Before using LunarVim, I found out there was very low effectiveness and my mindset was very messy when using some IDEs as there was a need to switch between my mouse and keyboards. Some IDEs only supported some programming languages, so there was some difference in key bindings, or we should change it manually in either IDE. 
+Before using LunarVim, I found out there was low efficiency and my mindset was very messy when using some IDEs as there was a need to switch between my mouse and keyboard. Not only that, some IDEs only supported some programming languages, so there were some differences in key bindings, or we shall change it manually in either IDE. 
 
-Thankfully, my friend [Yim Jia Jun](https://github.com/yimjiajun) has recommended Neovim to me and shared some knowledge with me during a trip. I further study Neovim by watching [chris@machine Neovim IDE from Scratch]( https://www.youtube.com/watch?v=ctH-a-1eUME&list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ) after that trip, and I was impressed by Neovim on the ability in customisation and the modes that allowed developers to develop programs with high efficiency. For your information, Chris is the creator of the LunarVim as well.
+Thankfully, my friend [Yim Jia Jun](https://github.com/yimjiajun) recommended Neovim to me and shared some knowledge with me during a trip. I further studied Neovim by watching [chris@machine Neovim IDE from Scratch]( https://www.youtube.com/watch?v=ctH-a-1eUME&list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ) after that trip, and I was impressed by Neovim on the ability in customisation and the modes that allowed developers to develop programs with high efficiency. For your information, Chris is the creator of the LunarVim as well.
 
 I have started using LunarVim since the end of November 2022, and I enjoy coding with it.
 
