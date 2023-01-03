@@ -227,7 +227,7 @@ local core_plugins = {
     end,
     disable = not lvim.builtin.dap.active,
   },
-
+  
   -- alpha
   {
     "goolord/alpha-nvim",
@@ -287,6 +287,12 @@ local core_plugins = {
   {
     "mfussenegger/nvim-jdtls"
   },
+
+  -- Debugger Go
+  {
+    "leoluz/nvim-dap-go",
+  },
+
 }
 
 local default_snapshot_path = join_paths(get_lvim_base_dir(), "snapshots", "default.json")
